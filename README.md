@@ -54,3 +54,35 @@
 **Database & Tools**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+## 🎵 Listen With Me
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=FN7ALfpGxiI" target="_blank">
+    <img src="assets/music-player.svg" alt="Nơi Này Có Anh - Sơn Tùng M-TP" width="540"/>
+  </a>
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaoRonald/HaoRonald/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaoRonald/HaoRonald/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/HaoRonald/HaoRonald/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=A6E3A1&center=true&vCenter=true&width=650&height=35&lines=Turning+coffee+into+code+%E2%98%95;Talk+is+cheap.+Show+me+the+code.+%E2%80%94+Linus+Torvalds;Stay+hungry%2C+stay+foolish.+%E2%80%94+Steve+Jobs" alt="Daily Quote"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=HaoRonald&color=89b4fa&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+</div>
