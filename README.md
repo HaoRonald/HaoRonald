@@ -60,9 +60,7 @@
 ## 🎵 Listen With Me
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=FN7ALfpGxiI" target="_blank">
-    <img src="assets/music-player.svg" alt="Nơi Này Có Anh - Sơn Tùng M-TP" width="540"/>
-  </a>
+  <img src="assets/music-player.svg" alt="Nơi Này Có Anh - Sơn Tùng M-TP" width="540"/>
 </div>
 
 ---
@@ -80,9 +78,5 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=A6E3A1&center=true&vCenter=true&width=650&height=35&lines=Turning+coffee+into+code+%E2%98%95;Talk+is+cheap.+Show+me+the+code.+%E2%80%94+Linus+Torvalds;Stay+hungry%2C+stay+foolish.+%E2%80%94+Steve+Jobs" alt="Daily Quote"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=HaoRonald&color=89b4fa&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 </div>
