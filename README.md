@@ -60,11 +60,9 @@
 ## 🎵 Listen With Me
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=FN7ALfpGxiI" target="_blank" title="Click để nghe Nơi Này Có Anh - Sơn Tùng M-TP">
+  <a href="https://www.youtube.com/watch?v=FN7ALfpGxiI" target="_blank" title="Nơi Này Có Anh - Sơn Tùng M-TP">
     <img src="assets/music-player.svg" alt="Nơi Này Có Anh - Sơn Tùng M-TP" width="540"/>
   </a>
-  <br/>
-  <sub><i>👉 Click vào máy nghe nhạc để phát bài hát nhé! 🎧</i></sub>
 </div>
 
 ---
